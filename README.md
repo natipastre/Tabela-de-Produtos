@@ -8,9 +8,13 @@ Projeto simples que exibe uma tabela de produtos com cálculo automático da qua
 
 Criar uma tabela interativa que apresenta produtos, suas categorias, quantidades e preços, calculando automaticamente a soma total da quantidade e do valor total dos produtos. Este projeto demonstra habilidades práticas para um portfólio profissional.
 
+
+
 ## Preview
 
-![Preview da Tabela de Produtos](https://i.postimg.cc/5NYm6dX6/tabela-de-produtos.png)
+<p align="center">
+  <img src="https://i.postimg.cc/5NYm6dX6/tabela-de-produtos.png" alt="Preview da Tabela de Produtos" width="600" />
+</p>
 
 ## Projeto Online
 
